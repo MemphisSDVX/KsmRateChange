@@ -1,0 +1,1 @@
+this tool requires that you have ffmpeg installed (https://www.gyan.dev/ffmpeg/builds/) take from here and make sure that the exes found within /bin are in the same folder as the ksm rate changing program, enjoy ^^
